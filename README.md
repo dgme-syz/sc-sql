@@ -25,8 +25,21 @@ python -m app
 ```
 即可享受这个小项目。
 
+<br/>
+<br/>
+<br/>
+
 
 > [!TIP]
 > 😶‍🌫️**我做了什么**
 
 利用 vue3 + Flask + Oracle 做了一个简单的关于学生选课的信息**管理**系统.
+
+<br/>
+<br/>
+
+> [!WARNING]
+> DEMO
+
+您可以通过欣赏一些 DEMO，决定是否要使用该项目：
+[](https://imgsli.com/MjQ2ODA0)
