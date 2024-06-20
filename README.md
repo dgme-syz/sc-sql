@@ -42,5 +42,4 @@ python -m app
 > DEMO
 
 您可以通过欣赏一些 DEMO，决定是否要使用该项目：
-[<img src="figs/turbo_steps02_frog.png" height="350px"/>](https://imgsli.com/MjQ2ODA0) [<img src="figs/turbo_steps02_building.png" height="350px"/>](https://imgsli.com/MjQ2ODA2)
-
+[<img src="figs/p1.png" height="320px"/>](https://imgsli.com/MjczMjM2)
