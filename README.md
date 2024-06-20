@@ -42,4 +42,4 @@ python -m app
 > DEMO
 
 您可以通过欣赏一些 DEMO，决定是否要使用该项目：
-[<img src="figs/p1.png" height="200px"/>](https://imgsli.com/MjczMjM2)[<img src="figs/p5.png" height="200px"/>]()
+[<img src="figs/p1.png" width="400px"/>](https://imgsli.com/MjczMjM2)[<img src="figs/p5.png" width="400px"/>]()
